@@ -1,0 +1,24 @@
+{
+  "name": "project-euler",
+  "version": "1.0.0",
+  "description": "I dunno check GitHub description :P",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpiderMath/Project-Euler.git"
+  },
+  "author": "Defective Detective",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/SpiderMath/Project-Euler/issues"
+  },
+  "homepage": "https://github.com/SpiderMath/Project-Euler#readme",
+  "dependencies": {
+    "@types/node": "^15.0.1",
+    "@typescript-eslint/parser": "^4.22.0",
+    "eslint": "^7.25.0"
+  }
+}

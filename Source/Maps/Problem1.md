@@ -26,22 +26,21 @@ Actual Answer = TS - Mul15 = 113 - 15 = 98
 **Maths Stuff**
 
 AP -> Arithmetric Progression  
-We have a sequence a1, a2, a3, ..  
-a2 = a1 + d  
-a3 = a2 + d ...  
-d = a3 - a2 = a2 - a1  
+We have a sequence a<sub>1</sub>, a<sub>2</sub>, a<sub>3</sub>, ..  
+a<sub>2</sub> = a<sub>1</sub> + d  
+a<sub>3</sub> = a<sub>2</sub> + d ...  
+d = a<sub>3</sub> - a<sub>2</sub> = a<sub>2</sub> - a<sub>1</sub>  
 
 a -> First term of AP  
 d -> Common Difference between terms  
 n -> Total number of terms in an AP  
-An -> Nth Term of AP
-Sn -> Sum of the AP
-
+A<sub>n</sub> -> Nth Term of AP  
+S<sub>n</sub> -> Sum of the AP  
 Ex: 1, 3, 5, 7, 9, 11, ..., 31  
 a = 1  
-d = a2 - a1 = 3 - 1 = 2  
+d = a<sub>2</sub> - a<sub>1</sub> = 3 - 1 = 2  
 n = 16  
-an = 31  like a16 = 31  
+a<sub>n</sub> = 31  like a<sub>16</sub> = 31  
 
 Formula to calculate sum of AP
 
@@ -59,10 +58,10 @@ Sn = (n/2) * (2a + (n - 1)d)
 
 We got 2 approaches possible,  
 1. Take Upperlimit -> Get n & directly put in formula
-2. Take Upperlimit -> Get n & An -> Put in formula
+2. Take Upperlimit -> Get n & A<sub>n</sub> -> Put in formula
 
 # Answer
-S3 = 166833  
-S5 = 99500  
-S15 = 33165  
-Final Result = (S3 + S5) - S15 = 233168  
+S<sub>3</sub> = 166833  
+S<sub>5</sub> = 99500  
+S<sub>15</sub> = 33165  
+Final Result = (S<sub>3</sub> + S<sub>5</sub>) - S<sub>15</sub> = 233168  
